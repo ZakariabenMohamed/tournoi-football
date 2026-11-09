@@ -1,6 +1,6 @@
 # TP1 — Cadrage du projet
 
-**Équipe : Zakaria Ben Mohamed, Aziz Sdiri, Feryel Ben Yahia**
+**Équipe : Zakaria ben Mohamed, Aziz Sdiri, Feryel Ben Yahia**
 **Classe : 3 BIS 2**
 **Sujet 18 — Tournoi de football inter-facultés : classement** (dossier `tournoi-football/`)
 
